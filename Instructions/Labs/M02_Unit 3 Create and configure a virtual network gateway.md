@@ -59,7 +59,7 @@ In this exercise, you will:
    | --------------- | ----------------- | ------------------------------------------- | ---------------------------- |
    | Basics          | Project Details   | Subscription                                | No changes required          |
    |                 | Instance Details  | Name                                        | CoreServicesVnetGateway      |
-   |                 |                   | Region                                      | East U                      |
+   |                 |                   | Region                                      | East US                      |
    |                 |                   | Gateway type                                | VPN                          |
    |                 |                   | SKU                                         | VpnGw1AZ                       |
    |                 |                   | Generation                                  | Generation1                  |
