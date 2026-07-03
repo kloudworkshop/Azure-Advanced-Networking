@@ -39,7 +39,7 @@ In this exercise, you will:
    | -------------------- | -------------------------------- |
    | Resource Group       | ExpressRouteResourceGroup (Create New)            |
    | Resiliency  | Standard  |
-   | Location             | East US 2                         |
+   | Location             | West US 2                         |
    | Name             | TestERCircuit                         |
    | Provider       | Equinix            |
    | Peering Location             | Seattle                         |
