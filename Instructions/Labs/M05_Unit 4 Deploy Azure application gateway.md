@@ -43,7 +43,7 @@ In this exercise, you will:
    | Subscription        | Select your subscription.                    |
    | Resource group      | Select **Create new** Name: **ContosoResourceGroup**       |
    | Application Gateway name| **ContosoAppGateway**                            |
-   | Region              | Select **East US**                           |
+   | Region              | Select **SouthEast Asia**                           |
    | Virtual Network     | Select **Create new**                        |
 
 1. On the **Create virtual network** blade, enter, or select the following information:
