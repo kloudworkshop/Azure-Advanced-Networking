@@ -42,7 +42,7 @@ In this section, you will create a virtual network and a subnet.
    | Subscription   | Select your subscription                   |
    | Resource group | Select **Create  new**  Name: **IntLB-RG** |
    | Name           | **IntLB-VNet**                             |
-   | Region         | **(US) East US**                           |
+   | Region         | **(Asia Pacific) SouthEast Asia**                           |
 
 1. Click **Next**.
 
@@ -106,7 +106,7 @@ In this section, you will create an internal Standard SKU load balancer.
    | Subscription          | Select your subscription |
    | Resource group        | **IntLB-RG**             |
    | Name                  | **myIntLoadBalancer**    |
-   | Region                | **(US) East US**         |
+   | Region                | **(Asia Pacific) SouthEast Asia**         |
    | SKU                   | **Standard**             |
    | Type                  | **Internal**             |
    | Tier                  | **Regional**             |
@@ -203,9 +203,9 @@ In this section, you will create a test VM, and then test the load balancer.
    | Subscription         | Select your subscription                     |
    | Resource group       | **IntLB-RG**                                 |
    | Virtual machine name | **myTestVM**                                 |
-   | Region               | **(US) East US**                             |
+   | Region               | **(UK) UK West**                             |
    | Availability options | **No infrastructure redundancy required**    |
-   | Image                | **Windows Server 2019 Datacenter - Gen 2**   |
+   | Image                | **Windows Server 2025 Datacenter - x64 Gen 2**   |
    | Size                 | **Standard_DS2_v3 - 2 vcpu, 8 GiB memory** |
    | Username             | **TestUser**                                 |
    | Password             | **Pa55w.rd1234abc**   |
