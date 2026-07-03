@@ -39,13 +39,13 @@ In this section, you will create two instances of a web application deployed in 
    | ---------------- | ------------------------------------------------------------ |
    | Subscription     | Select your subscription                                     |
    | Resource group   | Select **Create  new**  Name: **Contoso-RG-TM1**             |
-   | Name             | **ContosoWebAppEastUSxx** (where xx are your initials to make the name unique) |
+   | Name             | **ContosoWebAppSEAxx** (where xx are your initials to make the name unique) |
    | Publish          | **Code**                                                     |
    | Runtime stack    | **ASP.NET V4.8**                                             |
    | Operating system | **Windows**                                                  |
-   | Region           | **East US 2**                                                  |
-   | Windows Plan     | Select **Create  new**  Name: **ContosoAppServicePlanEastUS** |
-   | Pricing Plan     | **Standard S1 100 total ACU, 1.75-GB  memory**               |
+   | Region           | **SouthEast Asia**                                                  |
+   | Windows Plan     | Select **Create  new**  Name: **ContosoAppServicePlanSEA** |
+   | Pricing Plan     | **Accept the default pricing plan**               |
 
 
 1. Select **Monitor + secure** tab.
@@ -63,9 +63,9 @@ In this section, you will create two instances of a web application deployed in 
    | **Setting**    | **Value**                                                    |
    | -------------- | ------------------------------------------------------------ |
    | Resource group | Select  Name: **Contoso-RG-TM1**             |
-   | Name           | **ContosoWebAppWestEuropexx** (where xx are your initials to make the name unique)  |
+   | Name           | **ContosoWebAppWEexx** (where xx are your initials to make the name unique)  |
    | Region         | **West Europe**                                              |
-   | Windows Plan   | Select **Create  new**  Name: **ContosoAppServicePlanWestEurope** |
+   | Windows Plan   | Select **Create  new**  Name: **ContosoAppServicePlanWE** |
 
 1. Wait for both deployments to complete.
 
@@ -97,8 +97,6 @@ Now you will create a Traffic Manager profile that directs user traffic based on
    | Resource group          | **Contoso-RG-TM1**       |
    | Name                    | **Contoso-TMProfilexx** (where xx are your initials to make the name unique) |
    | Routing method          | **Priority**             |
-   | Resource group location | **East US**              |
-
 
 1. Select **Create**.
 
