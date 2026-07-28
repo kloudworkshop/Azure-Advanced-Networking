@@ -3,7 +3,7 @@
 
 
 
-- **[Link to Exercises (HTML format)](https://cloudklass.github.io/Azure-Advanced-Networking/)**
+- **[Link to Exercises (HTML format)](https://kloudworkshop.github.io/Azure-Advanced-Networking/)**
 *To open in a new tab:  CTRL+click (on Windows and Linux) or CMD+click (on MacOS)*
 
 
